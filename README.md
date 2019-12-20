@@ -1,13 +1,24 @@
-For this project, I will be deconstructing an existing web page and rebuilding it. Links and search boxes will/should not work. 
+For this project, I will be deconstructing an existing web page and rebuilding it. Links and search boxes will/should not work - 100% perfection not required. 
 
 Goals:
 
-1. Apply what I learned in previous lessons into this project (practice makes perfect).
+1. Reference Google.com and create a new copy of the homepage with HTML
 
-2. Think about how elements get placed on the page and how they get styled and aligned. 
+2. Ignore dropdown menus, form submissions, or hover-highlighting for now
 
-3. Use the browser's developer tools and get familiar with it. 
+3. Integrate navigation bar and footer
 
+4. Style the homepage with CSS (Center logo, rounded borders, etc.)
+
+5. Use Git and push code to Github when necessary
+
+6. When stuck, seek help (Google search, etc.)
+
+Bonus Objective(s):
+
+1. Build a Google.com search results page
+
+2. Same rules as above
 
 
 From The Odin Project's Web Development 101
