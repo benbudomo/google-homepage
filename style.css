@@ -41,3 +41,23 @@ img.google-logo {
     width: 135px;
     height: 35px;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.about-store {
+    float: left;
+}
+
+.gmail-images, .sign {
+    float: right;
+}
+
+li {
+    display: inline;
+}
+
