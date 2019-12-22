@@ -60,13 +60,14 @@ ul {
 
 li {
     display: inline;
-    padding-inline: 5px;
+    padding-inline: 8px;
 }
 
-.about, .store, .gmail, .images, .sign-in {
+.about, .store, .gmail, .images {
     font-size: 12px;
     text-decoration: none;
     font-family: arial,sans-serif;
+    color: black;
 }
 
 .about-store {
@@ -92,6 +93,10 @@ li {
     color: white;
     font-weight: bold;
     border-radius: 2px;
+    font-size: 12px;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+
 }
 
 a:visited.sign-in {
@@ -102,5 +107,29 @@ a:active, a:visited {
     color: black;
 }
 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f0f0f0;
+    border-top-color: #6d6d6d;
+    text-align: center;
+    /* padding-inline: 12px; */
+  }
 
+  .advertising, .business, .how, .privacy, .terms, .settings {
+    font-size: 13px;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    padding-right:3px;
+    color: #6d6d6d;
+  }
 
+  .advertising-business {
+      float: left;
+  }
+
+  .privacy-terms {
+      float: right;
+  }
