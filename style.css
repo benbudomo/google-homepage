@@ -2,44 +2,51 @@ img.google-logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 200px;
+    margin-top: 171px;
 }
 
 .search {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 30px;
-    width: 480px;
-    height: 40px;
+    margin-top: 25px;
+    width: 575px;
+    height: 45px;
     border-radius: 25px;
     border: .5px solid #dfdede;
     background-color: white;
 }
 
 .button {
-    padding: 30px 402px;
-    overflow: hidden; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 480px;
+    height: 40px;
+    border: 1px;
 }
 
-.google-search, .feeling-lucky {
-    display: block;
+ .google-search, .feeling-lucky {
     border: none;
     background-color: #f0f0f0;
     font-size: 14px;
     color: #6d6d6d;
+    border-radius: 3px;
 }
 
 .google-search {
     float: left;
     width: 130px;
     height: 35px;
+    margin-left: 95px;
 }
 
 .feeling-lucky {
     float: right;
     width: 135px;
     height: 35px;
+    margin-right: 110px;
 }
 
 ul {
@@ -51,13 +58,19 @@ ul {
 
 .about-store {
     float: left;
+    
 }
 
 .gmail-images, .sign {
     float: right;
+    
 }
 
 li {
     display: inline;
+}
+
+.about, .store, .gmail, .images, .sign-in{
+    text-decoration: none;
 }
 
