@@ -27,6 +27,3 @@ For this project, I will be deconstructing an existing web page (Google.com) and
 
 * **[Ben Budomo](https://github.com/benbudomo)** - *Dev Padawan*
 
-## Other Comments
-
-N/A
