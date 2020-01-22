@@ -21,7 +21,7 @@ For this project, I will be deconstructing an existing web page (Google.com) and
 ## Other
 
 * [The Odin Project's Web Development 101]( https://www.theodinproject.com/courses/web-development-101/lessons/html-css) – Project based on this online course
-* [Visual Studio Code]( https://code.visualstudio.com/) - Integrated Development Environment (IDE)
+* [Visual Studio Code]( https://code.visualstudio.com/)
 
 ## Authors
 
