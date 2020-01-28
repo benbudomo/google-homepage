@@ -25,5 +25,5 @@ For this project, I will be deconstructing an existing web page (Google.com) and
 
 ## Authors
 
-* **[Ben Budomo](https://github.com/benbudomo)** - *Dev Padawan*
+* **[Ben Budomo](https://github.com/benbudomo)**
 
